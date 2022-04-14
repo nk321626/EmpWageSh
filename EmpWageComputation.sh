@@ -1,4 +1,4 @@
-#!/bin/bash
+X#!/bin/bash
 
        echo "Welcome to Employee Wage Computation"
        EmpPresent=1;
